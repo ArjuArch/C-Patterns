@@ -1,3 +1,12 @@
+/*The code generates a rhombus pattern as follows:
+INPUT:
+4
+OUTPUT:
+* * * *
+ * * * *
+  * * * *
+   * * * *
+It's similar to printing a square...right?*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
