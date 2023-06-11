@@ -1,3 +1,14 @@
+/*This code prints an inverted full pyramid as follows:
+INPUT:
+5
+OUTPUT:
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+Can you figure it out the trick...
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
