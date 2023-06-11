@@ -1,3 +1,22 @@
+/*This code prints Square pattern using Numbers illustrated below:
+INPUT:
+2
+OUTPUT:
+2 2 2
+2 1 2
+2 2 2
+[OR]
+INPUT:
+4
+OUTPUT:
+4 4 4 4 4 4 4
+4 3 3 3 3 3 4
+4 3 2 2 2 3 4
+4 3 2 1 2 3 4
+4 3 2 2 2 3 4
+4 3 3 3 3 3 4
+4 4 4 4 4 4 4
+This a simple approach to solve it....imagine splitting them and yeah...you got it*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
